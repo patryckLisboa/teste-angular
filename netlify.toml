@@ -1,4 +1,4 @@
 [build]
   command = "ng build --prod"  # O comando de build do seu projeto
   publish = "dist/projeto-angular"  # O diretório onde o resultado do build está localizado
-  node_version = "14"  # Especifique a versão desejada do Node.js aqui (por exemplo, "14")
+  node_version = "13.12.0"  # Especifique a versão desejada do Node.js aqui (por exemplo, "14")
